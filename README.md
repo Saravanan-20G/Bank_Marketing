@@ -14,3 +14,15 @@ This repository contains the code and documentation for analyzing the "Bank Mark
 * call_frequency: Frequency of calls.
 * previous_campaign_outcome: Outcome of the previous marketing campaign.
 * conversion_status: Conversion status (whether the customer subscribed to the bank's service or not).
+## Skills Used
+```
+Python
+Pandas
+NumPy
+SciPy
+Matplotlib
+Seaborn
+Plotly Express
+Statsmodels
+Jupyter Notebook
+```
